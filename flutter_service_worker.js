@@ -3,18 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b1887a6478796e968dcf18a5badeebef",
-"assets/assets/audio/%25E3%2583%2591%25E3%2583%2583.mp3": "9df71ee4488a07f7959b15b03f83a45c",
-"assets/assets/audio/%25E3%2583%259C%25E3%2583%25A8%25E3%2583%25B3.mp3": "35efddc4c4b10fa37ff849bddd9ed060",
-"assets/assets/audio/%25E5%2592%258C%25E5%25A4%25AA%25E9%25BC%2593%25E3%2581%25A7%25E3%2583%2589%25E3%2583%2589%25E3%2583%25B3.mp3": "e182308ea8edee66fc5ad6a130a65512",
-"assets/assets/audio/%25E5%25B9%25B3%25E6%2589%258B%25E6%2589%2593%25E3%2581%25A11.mp3": "1ae510445beb39c0d393325037c3525a",
-"assets/assets/audio/%25E6%25B0%25B4%25E6%25BB%25B42.mp3": "11ae76e89c1e75c9a23d3fe0225a800c",
-"assets/assets/audio/%25E6%25B1%25BA%25E5%25AE%259A%25E3%2580%2581%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%25E6%258A%25BC%25E4%25B8%258B38.mp3": "e5906e235481e9192ee07b2f18e7f8ed",
-"assets/assets/audio/%25E6%25B1%25BA%25E5%25AE%259A%25E3%2580%2581%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%25E6%258A%25BC%25E4%25B8%258B44.mp3": "15d36847f7747499de3ed903ead4375f",
-"assets/assets/audio/%25E6%25B1%25BA%25E5%25AE%259A%25E3%2580%2581%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%25E6%258A%25BC%25E4%25B8%258B48.mp3": "7478f3a086b1674a5812de814af030cd",
-"assets/assets/audio/%25E6%25B1%25BA%25E5%25AE%259A%25E3%2580%2581%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%25E6%258A%25BC%25E4%25B8%258B50.mp3": "8fb5d4996839002695282588fa6f2fee",
-"assets/assets/audio/%25E6%25B3%25A1%25E3%2581%258C%25E3%2581%25AF%25E3%2581%2598%25E3%2581%2591%25E3%2582%258B.mp3": "e6655ae346e7e8ec6c317899d120e707",
-"assets/assets/audio/%25E9%2596%2593%25E6%258A%259C%25E3%2581%25911.mp3": "1e6065f9aff7c13ccc8d0b86e7d59a5e",
+  "assets/AssetManifest.json": "a64bc30341756a3b6138db85c29a3230",
 "assets/assets/audio/attack.mp3": "52777c78972495ae0bf0c1932fda1a73",
 "assets/assets/audio/damaged.mp3": "35efddc4c4b10fa37ff849bddd9ed060",
 "assets/assets/audio/ohagi.mp3": "e6655ae346e7e8ec6c317899d120e707",
@@ -60,9 +49,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "76ab91089d43655f2c57bcd69a5b915c",
-"/": "76ab91089d43655f2c57bcd69a5b915c",
-"main.dart.js": "5e6ea9b8ca054b31be781aa0a6351362",
+"index.html": "274088ff5ba801d607e7d91afc96207a",
+"/": "274088ff5ba801d607e7d91afc96207a",
+"main.dart.js": "3a4d176928c0bb85c35c652a04b3dd8a",
 "manifest.json": "6bb642bc525394d507dbd7f2db699bc1",
 "version.json": "b2471ef83a87b68fb3cf1946cf96722a"
 };
