@@ -15,7 +15,7 @@ const RESOURCES = {
 "assets/assets/audio/resultmoji.mp3": "81da01fb73e6be0dcd47180936b2cd2e",
 "assets/assets/audio/start.mp3": "4b945bf70c0498068a3f10c38a2113e2",
 "assets/assets/audio/start0.mp3": "81da01fb73e6be0dcd47180936b2cd2e",
-"assets/assets/images/annnai.png": "80418e39d59da3207cca2c521e3f6d43",
+"assets/assets/images/annnai.png": "593045448fffd89800b4ec99889c7ea9",
 "assets/assets/images/background.png": "5cfee4e50430862e6705c50720ead728",
 "assets/assets/images/damagedEnemy.png": "5847403b41578b7a5ab9e6542acebd4b",
 "assets/assets/images/enemy0.png": "618efcb908014e27bbb602f3a211c278",
@@ -48,9 +48,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c4985d1d9e58a905dbe9bafb582e1861",
-"/": "c4985d1d9e58a905dbe9bafb582e1861",
-"main.dart.js": "a1788dbfd31634a4d01459c8de57cc5e",
+"index.html": "7e2925ff90efd477b9bfb647d6ed4e5c",
+"/": "7e2925ff90efd477b9bfb647d6ed4e5c",
+"main.dart.js": "348f99aa2bbd8a1ceb6fa1f113228da5",
 "manifest.json": "6bb642bc525394d507dbd7f2db699bc1",
 "version.json": "b2471ef83a87b68fb3cf1946cf96722a"
 };
